@@ -14,8 +14,10 @@ body {
 .div2 {
 	
 	float:left;
+	background-color:purple;
 }
 
 .div3 {
 	float:right;
+	background-color:green;
 }
