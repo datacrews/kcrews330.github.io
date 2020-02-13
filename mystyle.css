@@ -15,9 +15,11 @@ body {
 	
 	float:left;
 	background-color:purple;
+	width:50%
 }
 
 .div3 {
 	float:right;
 	background-color:green;
+	width:50%;
 }
