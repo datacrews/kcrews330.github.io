@@ -1,3 +1,4 @@
+
 .div1 {
 	background-color:red;
 }
@@ -6,7 +7,7 @@
 
 body {
 
-	background-color: yellow;
+	
 
 }
 
@@ -15,11 +16,52 @@ body {
 	
 	float:left;
 	background-color:purple;
-	width:50%
+	width:30%;
+	
+
+
+	
 }
 
 .div3 {
-	float:right;
+	float:left;
 	background-color:green;
-	width:50%;
+	width:33%;
+content.margin-top:5px;
+
+margin-left:18px;
+	margin-top:3%;
+
+
+}
+
+
+.div4 {
+
+	float:right;
+	width:20%;
+background-color:blue;
+	margin-top:3%;
+
+
+}
+
+
+.div5 {
+
+	float:left;
+	width:100%
+}
+
+.main {
+margin-top:5px;
+margin-left:auto;
+margin-right:auto;
+width:960px;
+}
+
+.yoyo {
+	text-align:center;
+	padding-top:.5px;
+	
 }
